@@ -13,7 +13,7 @@ form {
 
 .divider {
   z-index: 1000;
-  background:url(public/svg/bg.svg);
+  background:url(svg/bg.svg);
   background-size: cover;
   background-repeat: no-repeat;
   aspect-ratio: 960/540;
