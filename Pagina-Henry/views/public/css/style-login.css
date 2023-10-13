@@ -1,0 +1,86 @@
+form {
+  color: white;
+  display: block;
+  align-items: center;
+  justify-items: center;
+  max-width: 50%;
+  padding: 10vh;
+  margin-top: 15vh;
+  margin-bottom: 5vh;
+  background-color: rgba(0, 0, 0, 0.9);
+
+}
+
+.divider {
+  z-index: 1000;
+  background:url(public/svg/bg.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  aspect-ratio: 960/540;
+  height: 100%;
+
+}
+
+.textbox{
+min-height: 7vh;
+
+}
+
+.textbox:focus {
+  border: rgb(56, 136, 255) 3px solid;
+  transition-duration: 500ms;
+  caret-color: #000000;
+  caret-shape: block;
+
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 5vh;
+  font-weight: 500;
+  position: relative;
+  padding: 5px;
+  bottom: 25px;
+}
+
+.form-label {
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.btn{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+p {
+  padding-top: 5vh;
+}
+
+.head {
+  color: white;
+background-color: rgba(0, 0, 0, 0.800);
+display: flex;
+font-size: 7vh;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+max-width: 100vh;
+position: fixed;
+padding: 20vh;
+margin: 25vh 50vh;
+
+}
+
+.logout {
+  font-size: 5vh;
+}
