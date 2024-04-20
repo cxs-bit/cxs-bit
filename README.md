@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning js, c#, html.
+- 🌱 I’m currently learning node js, react.
 - 💞️ I’m looking to collaborate with my buddies 
 - 📫 How to reach me carlosxaviersosa24@gmail.com
 
