@@ -3,7 +3,10 @@
 </h1> 
 <b>
 <p align="center"> 
-⚡Passionate and Quick learner<br>💡Always looking to make a difference<br>🌿Arch linux enjoyer <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" width="16" height="16"> <br>🌱 I'm currently learning Nextjs, React, Typescript, PostgreSQL. 
+  ⚡Passionate and Quick learner<br>
+  💡Always looking to make a difference<br> 
+  🌿Arch linux enjoyer <br> 
+  🌱 I'm currently learning Nextjs, React, Typescript, PostgreSQL. 
 </p>
 </b>
 
